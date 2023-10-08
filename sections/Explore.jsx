@@ -20,9 +20,10 @@ const Explore = () => (
       <TitleText
         title={
           <>
-            Choose the world you want <br className="md:block hidden" />
+            Choose the world you want <br className="md:block hidden" /> to exolore
           </>
         }
+        textStyles="text-center"
       />
     </motion.div>
   </section>
